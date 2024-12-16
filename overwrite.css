@@ -1,0 +1,16 @@
+#content_views pre{
+    -webkit-touch-callout: none;
+    -webkit-user-select: text;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: text;
+}
+#content_views pre code{
+    -webkit-touch-callout: none;
+    -webkit-user-select: text;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: text;
+}
